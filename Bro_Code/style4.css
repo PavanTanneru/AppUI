@@ -1,0 +1,19 @@
+html
+{
+	background-image: url("backfround.jpg");
+	color: white;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+h1
+{
+	background: linear-gradient(violet,indigo,green,yellow,orange,red,blue)
+}
+
+#efi
+{
+	background: linear-gradient(to right,grey,black)
+}

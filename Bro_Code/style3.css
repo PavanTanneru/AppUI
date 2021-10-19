@@ -1,0 +1,38 @@
+h1
+{
+	border-left-style: dashed;
+	border-right-style: solid;
+	border-top-style: double;
+	border-bottom-style: outset;
+	border-top-color: red;
+	border-bottom-color: white;
+	border-left-color: green;
+	border-right-color: blue; 
+	color: grey;
+	border-left-width: 10px;
+	border-right-width: 20px;
+	border-top-width: 15px;
+	border-bottom-width: 30px;
+	border-radius: 10px;
+}
+p
+{
+	padding: 10px;
+	border-style: solid;
+	border-style: dashed;
+	border-style: dotted;
+	border-style: double;
+	border-style: inset;
+	border-style: outset;
+	border-style: ridge;
+	border-style: groove;
+	border-width: 5px 2px  10px 11px;
+	border-color:  #57eb68;
+	border-radius: 20px;
+	color: white;
+
+}
+body
+{
+	background-color: black;
+}

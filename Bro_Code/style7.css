@@ -1,0 +1,44 @@
+a:link
+{
+	color: #78ffd0;
+}
+a:visited
+{
+	color: #d359ff;
+}
+button:hover
+{
+	color: pink;
+	background-color: black;
+}
+button:active
+{
+	color:orange;
+}
+	
+	/*
+li:first-child
+
+{
+	background-color: #79e89a;
+}
+li:last-child
+{
+	background-color: #79e89a;
+}
+li:nth-child(odd){
+	background-color:#93ff7d;
+}
+li:nth-child(even)
+{
+	background-color:#caffbf;
+}
+li:nth-child(2n+1)
+{
+	background-color:#caffbf;
+}
+ an+b where a is number of cycles*/
+ li:nth-child(odd)
+ {
+ 	background:linear-gradient(to right,lime,white);
+ }

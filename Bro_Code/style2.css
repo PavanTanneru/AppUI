@@ -1,0 +1,18 @@
+h1{
+	font-family: 'Londrina Solid', cursive;
+	color: #6eeb6e;
+	text-decoration: underline wavy #9fc4c7;
+}
+body
+{
+	background-color: #4c4f4c;
+}
+p{
+	font-family: 'Lobster', cursive;
+	background-color: black;
+	color: white;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration:underline red;
+}
